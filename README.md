@@ -31,3 +31,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/GamerSebarmego">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=GamerSebarmego&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
