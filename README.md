@@ -34,8 +34,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GamerSebarmego/GamerSebarmego/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/GamerSebarmego">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=GamerSebarmego&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
