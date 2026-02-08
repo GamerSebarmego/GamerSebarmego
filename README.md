@@ -1,9 +1,4 @@
 <h2 align="left">Hola 👋! Mi nombre es Sebastián</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamerSebarmego&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GamerSebarmego&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="max-width: 100%; height: auto;" />
-</div>
 </br>
 <div align="center">
   <a href="https://www.facebook.com/people/SebarmegoTech/61568145329172/" target="_blank">
